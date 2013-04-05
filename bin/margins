@@ -1,9 +1,0 @@
-#!/Users/auser/Development/clients/schnell/excel/bin/python
-# EASY-INSTALL-ENTRY-SCRIPT: 'xlutils==1.5.2','console_scripts','margins'
-__requires__ = 'xlutils==1.5.2'
-import sys
-from pkg_resources import load_entry_point
-
-sys.exit(
-   load_entry_point('xlutils==1.5.2', 'console_scripts', 'margins')()
-)

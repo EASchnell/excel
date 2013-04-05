@@ -1,4 +1,0 @@
-#!/Users/auser/Development/clients/schnell/excel/bin/python
-
-from scrapy.cmdline import execute
-execute()
